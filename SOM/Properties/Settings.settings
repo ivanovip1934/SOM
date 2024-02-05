@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SOM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dns_adress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kr01-dc-02.dp.mosreg.ru</Value>
+    </Setting>
+    <Setting Name="search_base" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DC=dp,DC=mosreg,DC=ru</Value>
+    </Setting>
+    <Setting Name="login_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dp.mosreg.ru\MezhetskiySV</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
